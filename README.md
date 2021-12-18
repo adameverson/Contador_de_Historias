@@ -2,7 +2,7 @@
 
 #### Robô social virtual contador de histórias.
 
-- Utilizando como projeto base APP com jogo de letramento
+- Utilizando como projeto base APP com jogo de letramento (https://github.com/curiouslearning/FeedTheMonster)
 - E projeto base de Text to Speech e Speech to Text do Watson da IBM (Para conversão de texto em audio e audio em texto, através de requisições a API do Watson da IBM)
 
 #### Imagem de sua execução pela Unity
